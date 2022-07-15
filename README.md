@@ -1,4 +1,4 @@
-# les_quizerable_andriod
+# Les Quizerable
 Final Project For MOBAPP 
 
 Les Quizerable is a quiz game about Programing Language.
