@@ -20,9 +20,25 @@ It has a OTP Verification and an email Authentication to secure personal inforam
 ![Home Page](https://user-images.githubusercontent.com/87133885/179560070-ef45bcee-bd01-418f-a829-467305862288.png)
 
 ## Module 2 - CRUD / Search / View / Update / Delete
+### Search/View
+![SearchView](https://user-images.githubusercontent.com/87133885/179560747-d214fbfd-8db7-408b-a69e-b0c5a14ee17d.png)
+
+### Update
+![Update](https://user-images.githubusercontent.com/87133885/179561096-9a9ce6c6-2427-496b-91a7-353e05275e29.png)
+
+### Delete
+![Delete](https://user-images.githubusercontent.com/87133885/179561119-f87b244f-dbae-43d3-9cb2-fc5149885280.png)
 
 ## Module 3 - System Log's
+### User's System Logs
+![system](https://user-images.githubusercontent.com/87133885/179561496-5fc20cb9-8e1f-4f55-b06c-9d3d2cfa397d.png)
+![logs](https://user-images.githubusercontent.com/87133885/179561504-5e53da39-6458-4ebb-aa8a-aafa6aed5d1d.png)
 
+# OTP Authentication / Verification to secure personal information
+## Send OTP Code
+![send](https://user-images.githubusercontent.com/87133885/179562078-06707768-7fef-4229-8c02-d8fe6e904b9a.png)
 
+## Verify OTP Code
+![reacived](https://user-images.githubusercontent.com/87133885/179562096-30eb68a5-b936-48a2-99a6-03d648678abe.png)
 
 ![category](https://user-images.githubusercontent.com/87133885/179187906-4d31d801-13d4-4f05-a7e8-36635534d3c2.png)
