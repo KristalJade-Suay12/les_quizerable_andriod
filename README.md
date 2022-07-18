@@ -59,3 +59,33 @@ It has a OTP Verification and an email Authentication to secure personal inforam
 
 # Leaderboard
 ![Leaderboard (4)](https://user-images.githubusercontent.com/87133885/179564352-e3b64b9b-dc8c-4d1f-b5d9-730de80de80c.png)
+
+
+
+## Demo Video
+Click the link to watch :
+
+## Researcher / Developer :
+* Su-ay, Kristal Jade
+* Manggohom, John Reb
+* Misalang, John Edward
+* Ruiz, John Christian
+
+
+## Adviser :
+* Prof. Jefferson A. Costales
+
+## School Name :
+Eulogio "Amang" Rodriguez Institute of Science and Technology
+
+Nagtahan, Sampaloc, Manila. Philippines
+
+College of Arts and Sciences
+
+ITE Department
+
+## Course :
+* Bachelor of Science in Information Technology
+
+
+## Date : 
