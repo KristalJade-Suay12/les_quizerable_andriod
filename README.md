@@ -17,11 +17,12 @@ It has a OTP Verification and an email Authentication to secure personal inforam
 ### Login
 ![Login](https://user-images.githubusercontent.com/87133885/179559902-21e71a4c-7e72-4ea3-b679-ed42a449f110.png)
 ### Logout - is EXIT button
+![Home Page](https://user-images.githubusercontent.com/87133885/179560070-ef45bcee-bd01-418f-a829-467305862288.png)
+
 ## Module 2 - CRUD / Search / View / Update / Delete
 
 ## Module 3 - System Log's
-![Home Page](https://user-images.githubusercontent.com/87133885/179560070-ef45bcee-bd01-418f-a829-467305862288.png)
-#
+
 
 
 ![category](https://user-images.githubusercontent.com/87133885/179187906-4d31d801-13d4-4f05-a7e8-36635534d3c2.png)
