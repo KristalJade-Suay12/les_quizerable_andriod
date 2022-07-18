@@ -12,6 +12,8 @@ It has a OTP Verification and an email Authentication to secure personal inforam
 # MODULES
 
 ## Module 1 - Registration / Login / Logout 
+### Registrartion
+![Registration](https://user-images.githubusercontent.com/87133885/179559406-75b6bf4a-f879-4028-9cc3-d98efa3ded29.png)
 
 ## Module 2 - CRUD / Search / View / Update / Delete
 
