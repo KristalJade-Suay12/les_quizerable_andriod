@@ -9,13 +9,14 @@ These application show's a quiz game about programming language, this is to help
 It has a OTP Verification and an email Authentication to secure personal inforamtion.
 #
 ![header](https://user-images.githubusercontent.com/87133885/179187361-29196ac9-6e3e-40fa-b829-214e27bed09c.png)
-# MODULES
+
 
 ## Module 1 - Registration / Login / Logout 
 ### Registrartion
 ![Registration](https://user-images.githubusercontent.com/87133885/179559406-75b6bf4a-f879-4028-9cc3-d98efa3ded29.png)
 ### Login
 ![Login](https://user-images.githubusercontent.com/87133885/179559902-21e71a4c-7e72-4ea3-b679-ed42a449f110.png)
+#
 ### Logout - is EXIT button
 ![Home Page](https://user-images.githubusercontent.com/87133885/179560070-ef45bcee-bd01-418f-a829-467305862288.png)
 
@@ -42,3 +43,17 @@ It has a OTP Verification and an email Authentication to secure personal inforam
 ![reacived](https://user-images.githubusercontent.com/87133885/179562096-30eb68a5-b936-48a2-99a6-03d648678abe.png)
 
 ![category](https://user-images.githubusercontent.com/87133885/179187906-4d31d801-13d4-4f05-a7e8-36635534d3c2.png)
+#
+![category (1)](https://user-images.githubusercontent.com/87133885/179563557-e92ae99c-27f3-4c69-9449-7054776fe45b.png)
+
+## Category 1 - C Language
+
+## Catgeory 2 - C++ Language
+
+## Category 3 - Python
+
+## Category 4 - Java
+
+# Quiz Result
+
+# Leaderboard
