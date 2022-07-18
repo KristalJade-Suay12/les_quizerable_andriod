@@ -9,13 +9,13 @@ These application show's a quiz game about programming language, this is to help
 It has a OTP Verification and an email Authentication to secure personal inforamtion.
 #
 ![header](https://user-images.githubusercontent.com/87133885/179187361-29196ac9-6e3e-40fa-b829-214e27bed09c.png)
-# Modules
+# MODULES
 
 ## Module 1 - Registration / Login / Logout 
 
-# Module 2 - CRUD / Search / View / Update / Delete
+## Module 2 - CRUD / Search / View / Update / Delete
 
-# Module 3 - System Log's
+## Module 3 - System Log's
 
 #
 
