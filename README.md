@@ -55,5 +55,7 @@ It has a OTP Verification and an email Authentication to secure personal inforam
 ## Category 4 - Java
 
 # Quiz Result
+![qr](https://user-images.githubusercontent.com/87133885/179564343-1605d47e-6c48-45af-951f-6300376bb64a.png)
 
 # Leaderboard
+![Leaderboard (4)](https://user-images.githubusercontent.com/87133885/179564352-e3b64b9b-dc8c-4d1f-b5d9-730de80de80c.png)
