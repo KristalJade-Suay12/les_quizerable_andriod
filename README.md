@@ -41,11 +41,10 @@ It has a OTP Verification and an email Authentication to secure personal inforam
 
 ## Verify OTP Code
 ![reacived](https://user-images.githubusercontent.com/87133885/179562096-30eb68a5-b936-48a2-99a6-03d648678abe.png)
-
 #
+# Category You Can Choose
 #
 ![category (1)](https://user-images.githubusercontent.com/87133885/179563557-e92ae99c-27f3-4c69-9449-7054776fe45b.png)
-
 #
 # Quiz Result
 ![qr](https://user-images.githubusercontent.com/87133885/179564343-1605d47e-6c48-45af-951f-6300376bb64a.png)
