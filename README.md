@@ -50,9 +50,9 @@ It has a OTP Verification and an email Authentication to secure personal inforam
 ##
 # Leaderboard
 ![Leaderboard (4)](https://user-images.githubusercontent.com/87133885/179564352-e3b64b9b-dc8c-4d1f-b5d9-730de80de80c.png)
-
-
-
+#
+![footer](https://user-images.githubusercontent.com/87133885/180203123-26c97b8b-9c04-4bb0-a820-28d7695196b8.png)
+#
 ## Demo Video
 Click the link to watch :
 
