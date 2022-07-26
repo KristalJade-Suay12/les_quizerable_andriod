@@ -54,13 +54,14 @@ It has a OTP Verification and an email Authentication to secure personal inforam
 ![footer](https://user-images.githubusercontent.com/87133885/180203123-26c97b8b-9c04-4bb0-a820-28d7695196b8.png)
 #
 ## Demo Video
-Click the link to watch the Group Demo: https://youtu.be/FYYtfyYsCzM 
-
-Edited By : John Edward Misalang
-
-Demo Video : https://youtu.be/3vsMYtXM8oI
+Click the link to watch: https://youtu.be/3vsMYtXM8oI
 
 Edited By: Kristal Jade Su-ay
+
+#### Group Demo
+Click the link to watch: https://youtu.be/FYYtfyYsCzM 
+
+Edited By : John Edward Misalang
 
 ## Researcher / Developer :
 * Su-ay, Kristal Jade
