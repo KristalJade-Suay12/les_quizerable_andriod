@@ -54,7 +54,7 @@ It has a OTP Verification and an email Authentication to secure personal inforam
 ![footer](https://user-images.githubusercontent.com/87133885/180203123-26c97b8b-9c04-4bb0-a820-28d7695196b8.png)
 #
 ## Demo Video
-Click the link to watch : https://youtu.be/FYYtfyYsCzM
+Click the link to watch : https://youtu.be/3vsMYtXM8oI
 
 ## Researcher / Developer :
 * Su-ay, Kristal Jade
